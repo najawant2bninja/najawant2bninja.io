@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Welcome to Ninja's homepage</title>
-</head>
 <body>
   <center><h1>Welcome to Ninja's homepage</h1></center>
     <ul>
